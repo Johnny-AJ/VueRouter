@@ -13,7 +13,7 @@ export default {
   },
   //   指令
   methods: {
-    isshow: false
+    isshow: true
   },
   // 侦听器
   watch: {
